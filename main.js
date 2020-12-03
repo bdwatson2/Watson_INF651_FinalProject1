@@ -115,3 +115,6 @@ function grabLocation(lat, long){
         latCountry = check.sys.country;
     });
 }
+
+
+"\n";
